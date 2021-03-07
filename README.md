@@ -93,6 +93,8 @@ details about weather
 face recognition
 open other apps than web browser and many more
 
+The voice input is sometimes buggy as it's facing some difficulty while understanding Indian English, I am working on it and will release a whole new pleasent voice module soon enough :P
+
 Also as JARVIS was capable of hacking through system, M.A.R.K too would be able to help in enumerating the machines with using tools such as Nmap,Gobuster,SMB enum,dig,FTP enum and more(Would include it in further releases)
 
 
