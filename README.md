@@ -77,6 +77,12 @@ Sample Command: "Mark, could you play Senorita"
 
 The first video(usally the original video) will get played.
 
+___STOP THE PROGRAM___
+
+Use any of the following words in your command to close the program
+
+"Kill","Shut Down","Stop","Sleep"
+
 _______           ______________                 ______________                _______
 
 Since M.A.R.K is still in development stage, the functions are pretty limited for now but soon will be able to start itself the moment the machine starts without any help from the user, It's functions would also be further included to
