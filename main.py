@@ -7,9 +7,8 @@ import functions.browser
 import time
 
 if __name__=="__main__":
-   # pre_initial()
-    say("mark")
     functions.check_user.check()
+    pre_initial()
     while True:
         data=listen().lower()
         if (data==0):
