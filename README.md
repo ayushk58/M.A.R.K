@@ -84,12 +84,16 @@ Use any of the following words in your command to close the program
 "Kill","Shut Down","Stop","Sleep"
 
 
+
+
 ___VERSION_RELEASE 2.0 ___
 
 Added functions.
 
 1.Weather: Call weather function b including weather or temperature in your commmand.
+
 2.Jokes: Inclide jokes in the command to hear a very funny joke from MARK
+
 3.News: Fetch news from google news and open any of them by specifying the number. Include news or headlines in your command.
 
 
