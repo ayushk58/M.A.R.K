@@ -2,6 +2,7 @@ import functions.Response
 import os
 import time
 import random
+import assistant
 
 class UserCheck:
     def __init__(self):
@@ -25,6 +26,7 @@ def check():
         command=functions.Response.listen()
         user.add_user(command)
         functions.Response.say("Welcome Mister" + command)
+        assistant.pre_initial()
     else:
         f=open("functions/Text_file/user.txt")
         name=f.readline()
