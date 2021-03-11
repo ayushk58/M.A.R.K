@@ -83,24 +83,14 @@ Use any of the following words in your command to close the program
 
 "Kill","Shut Down","Stop","Sleep"
 
-_______           ______________                 ______________                _______
 
-Since M.A.R.K is still in development stage, the functions are pretty limited for now but soon will be able to start itself the moment the machine starts without any help from the user, It's functions would also be further included to
+___VERSION_RELEASE 2.0 ______
 
-sending mail
-GUI
-details about weather
-face recognition
-open other apps than web browser and many more
+Added functions.
 
-The voice input is sometimes buggy as it's facing some difficulty while understanding Indian English, I am working on it and will release a whole new pleasent voice module soon enough :P
-
-Also as JARVIS was capable of hacking through system, M.A.R.K too would be able to help in enumerating the machines with using tools such as Nmap,Gobuster,SMB enum,dig,FTP enum and more(Would include it in further releases)
-
-
-
-
-
+1.Weather: Call weather function b including weather or temperature in your commmand.
+2.Jokes: Inclide jokes in the command to hear a very funny joke from MARK
+3.News: Fetch news from google news and open any of them by specifying the number. Include news or headlines in your command.
 
 
 You are free to contribute and help me in making MARK more complex, It could be anything from a GUI to employing Machine Learning to automate some more tasks,Create a pull request and start coding.
