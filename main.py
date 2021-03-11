@@ -8,7 +8,6 @@ import time
 
 if __name__=="__main__":
     functions.check_user.check()
-    pre_initial()
     while True:
         data=listen().lower()
         if (data==0):
