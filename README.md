@@ -84,7 +84,7 @@ Use any of the following words in your command to close the program
 "Kill","Shut Down","Stop","Sleep"
 
 
-___VERSION_RELEASE 2.0 ______
+___VERSION_RELEASE 2.0 ___
 
 Added functions.
 
