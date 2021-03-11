@@ -47,4 +47,16 @@ def digital_assistant(data):
     
         elif "search" in data:
             functions.web_search.Search(data)
+	
+	elif "play" in data:
+            functions.youtube.Play_music(data)
+
+        elif contain(data,["temperature","weather"]):
+            functions.weather.Weather_search(data)
+
+        elif contain(data,["news","headline","headlines"]):
+            functions.fetch_news.News_search()
+
+        elif "joke" in data:
+            functions.jokes()
     
