@@ -86,7 +86,7 @@ Use any of the following words in your command to close the program
 
 
 
-___VERSION_RELEASE 2.0 ___
+______VERSION_RELEASE 2.0 ______
 
 Added functions.
 
@@ -96,6 +96,8 @@ Added functions.
 
 3.News: Fetch news from google news and open any of them by specifying the number. Include news or headlines in your command.
 
+
+Next Rreleases include voice identification while logging in as the owner of the Personal Assistant with other functions
 
 You are free to contribute and help me in making MARK more complex, It could be anything from a GUI to employing Machine Learning to automate some more tasks,Create a pull request and start coding.
 
